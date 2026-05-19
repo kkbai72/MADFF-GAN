@@ -13,7 +13,9 @@ run the following command
 
 ### Testing process
 
-Create directories `../test_datas`. Put your test images on `../test_datas`.
+Download our models from [Baidu Disk](https://pan.baidu.com/s/1f7x2QG27CWeYrUQaCemo7g) (code: `qtsc`)
+
+Put your test images on `../test_datas`.
 
 Run
 
