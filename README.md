@@ -25,12 +25,16 @@ Run
 
 If you find this work useful for you, please cite
 ```
-@article{MADFFGAN2026,
+@article{HUANG2026104838,,
   title={Transmission Line Low-Light Image Enhancement Based on Multi-Directional Attention and Discrepancy Feature Fusion},
   author={Huang, Xingyao and Wu, Yuxiang},
   journal={Journal of Visual Communication and Image Representation},
-  year={2026},
-  note={Accepted. To appear.}
+  volume = {118},
+  pages = {104838},
+  year = {2026},
+  issn = {1047-3203},
+  doi = {https://doi.org/10.1016/j.jvcir.2026.104838},
+  url = {https://www.sciencedirect.com/science/article/pii/S1047320326001331},
 }
 ```
 
