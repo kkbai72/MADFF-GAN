@@ -13,7 +13,7 @@ run the following command
 
 ### Testing process
 
-Create directories `../test_dataset`. Put your test images on `../test_dataset`.
+Create directories `../test_datas`. Put your test images on `../test_datas`.
 
 Run
 
