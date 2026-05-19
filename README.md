@@ -13,7 +13,7 @@ run the following command
 
 ### Testing process
 
-Create directories `../test_dataset/testA` and `../test_dataset/testB`. Put your test images on `../test_dataset/testA` (And you should keep whatever one image in `../test_dataset/testB` to make sure program can start.)
+Create directories `../test_dataset`. Put your test images on `../test_dataset`.
 
 Run
 
